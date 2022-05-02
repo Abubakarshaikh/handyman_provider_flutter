@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.5\\android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.5\\android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.5\\android\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.5\\android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.5\\android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.5\\android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\layout\\notification_action.xml"
+    }
+]

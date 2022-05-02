@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\handyman\\Mobile app\\provider_flutter\\build\\google_mobile_ads\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\69498dfaa656e9451b5c96bb968b44e0\\work-runtime-2.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_mobile_ads-0.13.6\\android\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\69498dfaa656e9451b5c96bb968b44e0\\work-runtime-2.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_mobile_ads-0.13.6\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_mobile_ads-0.13.6\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_mobile_ads-0.13.6\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_mobile_ads-0.13.6\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\AbubakarShaikh\\.gradle\\caches\\transforms-2\\files-2.1\\46376feef677a6dc8aa3986781afe210\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]
